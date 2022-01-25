@@ -1,1 +1,1 @@
-# ItStep_Academy
+# Learning Python in ItStep Academy
