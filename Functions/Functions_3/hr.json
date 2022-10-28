@@ -1,0 +1,74 @@
+{
+    "company": "MyCompany LTD",
+    "departments": [
+        {
+            "dep_name": "Комп'ютерний відділ",
+            "employees": [
+                {
+                    "emp_name": "Іваненко Іван Іванович",
+                    "emp_position": "Програміст",
+                    "emp_age": 24,
+                    "emp_salary": 1300
+                },
+                {
+                    "emp_name": "Петренко Петро Петрович",
+                    "emp_position": "Адміністратор",
+                    "emp_age": 35,
+                    "emp_salary": 1700
+                },
+                {
+                    "emp_name": "Сидоренко Сидор Сидорович",
+                    "emp_position": "Дизайнер",
+                    "emp_age": 19,
+                    "emp_salary": 1100
+                }
+            ]
+        },
+        {
+            "dep_name": "Фінансовий відділ",
+            "employees": [
+                {
+                    "emp_name": "Адрійченко Андрій Андрійович",
+                    "emp_position": "Бухгалтер",
+                    "emp_age": 33,
+                    "emp_salary": 1500
+                },
+                {
+                    "emp_name": "Федорченко Федір Федорович",
+                    "emp_position": "Економіст",
+                    "emp_age": 25,
+                    "emp_salary": 1200
+                },
+                {
+                    "emp_name": "Степаненко Степан Степанович",
+                    "emp_position": "Менеджер",
+                    "emp_age": 19,
+                    "emp_salary": 1100
+                }
+            ]
+        },
+        {
+            "dep_name": "Рекламний відділ",
+            "employees": [
+                {
+                    "emp_name": "Миколенко Миколай Миколайович",
+                    "emp_position": "Маректолог",
+                    "emp_age": 39,
+                    "emp_salary": 1800
+                },
+                {
+                    "emp_name": "Дмитренко Дмитро Дмитрович",
+                    "emp_position": "Дизайнер",
+                    "emp_age": 22,
+                    "emp_salary": 1300
+                },
+                {
+                    "emp_name": "Пупкін Василь Васильович",
+                    "emp_position": "Стажер",
+                    "emp_age": 19,
+                    "emp_salary": 1100
+                }
+            ]
+        }
+    ]
+}
